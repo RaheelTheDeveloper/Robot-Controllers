@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 73317f8d0beaa864a9c427c4a82363c9
+timeCreated: 1529407312
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CATRigf1
+    100002: CATRigf10
+    100004: CATRigf2
+    100006: CATRigf3
+    100008: CATRigf4
+    100010: CATRigf5
+    100012: CATRigf6
+    100014: CATRigf7
+    100016: CATRigf8
+    100018: CATRigf9
+    100020: CATRigs1
+    100022: CATRigs2
+    100024: CATRigTail1
+    100026: CATRigTail2
+    100028: CATRigTail3
+    100030: CATRigTail4
+    100032: CATRigTail5
+    100034: CATRigTail6
+    100036: CATRigTail7
+    100038: Character001
+    100040: head
+    100042: jaw
+    100044: Object001
+    100046: Object002
+    100048: Object003
+    100050: Object004
+    100052: Object005
+    100054: Object006
+    100056: Object007
+    100058: Object008
+    100060: Object009
+    100062: Object010
+    100064: Object011
+    100066: Object012
+    100068: Object013
+    100070: Object014
+    100072: Object015
+    100074: Object016
+    100076: Object017
+    100078: Object018
+    100080: //RootNode
+    100082: Shark_polySurface40
+    400000: CATRigf1
+    400002: CATRigf10
+    400004: CATRigf2
+    400006: CATRigf3
+    400008: CATRigf4
+    400010: CATRigf5
+    400012: CATRigf6
+    400014: CATRigf7
+    400016: CATRigf8
+    400018: CATRigf9
+    400020: CATRigs1
+    400022: CATRigs2
+    400024: CATRigTail1
+    400026: CATRigTail2
+    400028: CATRigTail3
+    400030: CATRigTail4
+    400032: CATRigTail5
+    400034: CATRigTail6
+    400036: CATRigTail7
+    400038: Character001
+    400040: head
+    400042: jaw
+    400044: Object001
+    400046: Object002
+    400048: Object003
+    400050: Object004
+    400052: Object005
+    400054: Object006
+    400056: Object007
+    400058: Object008
+    400060: Object009
+    400062: Object010
+    400064: Object011
+    400066: Object012
+    400068: Object013
+    400070: Object014
+    400072: Object015
+    400074: Object016
+    400076: Object017
+    400078: Object018
+    400080: //RootNode
+    400082: Shark_polySurface40
+    4300000: Shark_polySurface40
+    4300002: Object001
+    4300004: Object002
+    4300006: Object003
+    4300008: Object004
+    4300010: Object005
+    4300012: Object006
+    4300014: Object007
+    4300016: Object008
+    4300018: Object009
+    4300020: Object010
+    4300022: Object011
+    4300024: Object012
+    4300026: Object013
+    4300028: Object014
+    4300030: Object015
+    4300032: Object016
+    4300034: Object017
+    4300036: Object018
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Object001
+    13700002: Object002
+    13700004: Object003
+    13700006: Object004
+    13700008: Object005
+    13700010: Object006
+    13700012: Object007
+    13700014: Object008
+    13700016: Object009
+    13700018: Object010
+    13700020: Object011
+    13700022: Object012
+    13700024: Object013
+    13700026: Object014
+    13700028: Object015
+    13700030: Object016
+    13700032: Object017
+    13700034: Object018
+    13700036: Shark_polySurface40
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Shark (1)01___Default
+    second: {fileID: 2100000, guid: 20b8a5b67547aa24e9c1e80334fa2ebd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

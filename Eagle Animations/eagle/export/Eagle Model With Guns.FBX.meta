@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: b09f428c02155c4419246d3f05122419
+timeCreated: 1529468711
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CATRigbeak
+    100002: CATRighead
+    100004: CATRigLLeg1
+    100006: CATRigLLeg2
+    100008: CATRigLLegAnkle
+    100010: CATRigLLegDigit10
+    100012: CATRigLLegPlatform
+    100014: CATRigLLegPlatformGizmo
+    100016: CATRigLW1
+    100018: CATRigLW2
+    100020: CATRigLW3
+    100022: CATRigLW4
+    100024: CATRigpelvis
+    100026: CATRigRLeg1
+    100028: CATRigRLeg2
+    100030: CATRigRLegAnkle
+    100032: CATRigRLegDigit10
+    100034: CATRigRLegPlatform
+    100036: CATRigRLegPlatformGizmo
+    100038: CATRigRW1
+    100040: CATRigRW2
+    100042: CATRigRW3
+    100044: CATRigRW4
+    100046: CATRigSpine1
+    100048: CATRigSpine2
+    100050: CATRigSpine3
+    100052: CATRigTail1
+    100054: CATRigTail2
+    100056: CATRigTail3
+    100058: CATRigTail4
+    100060: CATRigTail5
+    100062: CATRigTail6
+    100064: Cylinder001
+    100066: Cylinder002
+    100068: //RootNode
+    100070: Eagle_Final3
+    100072: Object001
+    100074: Object002
+    100076: Object003
+    100078: Object004
+    100080: Object005
+    100082: Object006
+    100084: Object007
+    100086: Object008
+    100088: Object009
+    100090: Object010
+    100092: Object011
+    100094: Object012
+    100096: Object013
+    100098: Object014
+    100100: Object015
+    100102: Object016
+    400000: CATRigbeak
+    400002: CATRighead
+    400004: CATRigLLeg1
+    400006: CATRigLLeg2
+    400008: CATRigLLegAnkle
+    400010: CATRigLLegDigit10
+    400012: CATRigLLegPlatform
+    400014: CATRigLLegPlatformGizmo
+    400016: CATRigLW1
+    400018: CATRigLW2
+    400020: CATRigLW3
+    400022: CATRigLW4
+    400024: CATRigpelvis
+    400026: CATRigRLeg1
+    400028: CATRigRLeg2
+    400030: CATRigRLegAnkle
+    400032: CATRigRLegDigit10
+    400034: CATRigRLegPlatform
+    400036: CATRigRLegPlatformGizmo
+    400038: CATRigRW1
+    400040: CATRigRW2
+    400042: CATRigRW3
+    400044: CATRigRW4
+    400046: CATRigSpine1
+    400048: CATRigSpine2
+    400050: CATRigSpine3
+    400052: CATRigTail1
+    400054: CATRigTail2
+    400056: CATRigTail3
+    400058: CATRigTail4
+    400060: CATRigTail5
+    400062: CATRigTail6
+    400064: Cylinder001
+    400066: Cylinder002
+    400068: //RootNode
+    400070: Eagle_Final3
+    400072: Object001
+    400074: Object002
+    400076: Object003
+    400078: Object004
+    400080: Object005
+    400082: Object006
+    400084: Object007
+    400086: Object008
+    400088: Object009
+    400090: Object010
+    400092: Object011
+    400094: Object012
+    400096: Object013
+    400098: Object014
+    400100: Object015
+    400102: Object016
+    2300000: Cylinder001
+    2300002: Cylinder002
+    2300004: Object001
+    2300006: Object002
+    2300008: Object003
+    2300010: Object004
+    2300012: Object013
+    2300014: Object014
+    2300016: Object015
+    2300018: Object016
+    3300000: Cylinder001
+    3300002: Cylinder002
+    3300004: Object001
+    3300006: Object002
+    3300008: Object003
+    3300010: Object004
+    3300012: Object013
+    3300014: Object014
+    3300016: Object015
+    3300018: Object016
+    4300000: Object004
+    4300002: Object003
+    4300004: Object002
+    4300006: Object001
+    4300008: Object015
+    4300010: Object016
+    4300012: Object014
+    4300014: Object013
+    4300016: Cylinder001
+    4300018: Cylinder002
+    4300020: Eagle_Final3
+    4300022: Object007
+    4300024: Object008
+    4300026: Object009
+    4300028: Object010
+    4300030: Object011
+    4300032: Object012
+    4300034: Object006
+    4300036: Object005
+    9500000: //RootNode
+    13700000: Eagle_Final3
+    13700002: Object005
+    13700004: Object006
+    13700006: Object007
+    13700008: Object008
+    13700010: Object009
+    13700012: Object010
+    13700014: Object011
+    13700016: Object012
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Eagle_Final123blinn1SG
+    second: {fileID: 2100000, guid: aeffd6eb3310b6c48bb40594a408a9de, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

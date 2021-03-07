@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: df2a65faa01b92241b86beb3718ed1f8
+timeCreated: 1528192321
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box001
+    100004: Box002
+    100006: Box004
+    100008: Box005
+    100010: Box006
+    100012: Box007
+    100014: Box008
+    100016: Box009
+    100018: Box010
+    100020: Box011
+    100022: Box012
+    100024: Box013
+    100026: Box014
+    100028: Box015
+    100030: Box016
+    100032: Box017
+    100034: Box018
+    100036: Box019
+    100038: Box020
+    100040: Box021
+    100042: Box022
+    100044: CATRigchest
+    100046: CATRighead
+    100048: CATRigLArm003
+    100050: CATRigLArm004
+    100052: CATRigLArm1
+    100054: CATRigLArm2
+    100056: CATRigLArmCollarbone
+    100058: CATRigLArmCollarbone001
+    100060: CATRigLArmDigit012
+    100062: CATRigLArmDigit11
+    100064: CATRigLArmIKTarget
+    100066: CATRigLArmIKTarget 1
+    100068: CATRigLArmPalm
+    100070: CATRigLArmPalm001
+    100072: CATRigLLeg1
+    100074: CATRigLLeg2
+    100076: CATRigLLeg3
+    100078: CATRigLLegAnkle
+    100080: CATRigLLegPlatform
+    100082: CATRigpelvis
+    100084: CATRigRLeg1
+    100086: CATRigRLeg2
+    100088: CATRigRLeg3
+    100090: CATRigRLegAnkle
+    100092: CATRigRLegPlatform
+    100094: CATRigSpine1
+    100096: CATRigSpine1 1
+    100098: CATRigSpine2
+    100100: CATRigSpine2 1
+    100102: CATRigSpine3
+    100104: CATRigSpine3 1
+    100106: CATRigSpine4
+    100108: CATRigSpine4 1
+    100110: CATRigSpine5
+    100112: CATRigSpine5 1
+    100114: Character001
+    100116: Cylinder002
+    100118: Cylinder003
+    100120: Cylinder009
+    100122: Cylinder010
+    100124: Cylinder011
+    100126: Cylinder012
+    100128: Cylinder014
+    100130: Cylinder015
+    100132: Cylinder016
+    100134: Cylinder017
+    100136: Cylinder021
+    100138: Cylinder022
+    100140: Cylinder023
+    100142: Cylinder024
+    100144: Cylinder027
+    100146: Cylinder028
+    100148: Cylinder029
+    100150: Object001
+    100152: Object002
+    100154: Sphere001
+    100156: Sphere002
+    400000: //RootNode
+    400002: Box001
+    400004: Box002
+    400006: Box004
+    400008: Box005
+    400010: Box006
+    400012: Box007
+    400014: Box008
+    400016: Box009
+    400018: Box010
+    400020: Box011
+    400022: Box012
+    400024: Box013
+    400026: Box014
+    400028: Box015
+    400030: Box016
+    400032: Box017
+    400034: Box018
+    400036: Box019
+    400038: Box020
+    400040: Box021
+    400042: Box022
+    400044: CATRigchest
+    400046: CATRighead
+    400048: CATRigLArm003
+    400050: CATRigLArm004
+    400052: CATRigLArm1
+    400054: CATRigLArm2
+    400056: CATRigLArmCollarbone
+    400058: CATRigLArmCollarbone001
+    400060: CATRigLArmDigit012
+    400062: CATRigLArmDigit11
+    400064: CATRigLArmIKTarget
+    400066: CATRigLArmIKTarget 1
+    400068: CATRigLArmPalm
+    400070: CATRigLArmPalm001
+    400072: CATRigLLeg1
+    400074: CATRigLLeg2
+    400076: CATRigLLeg3
+    400078: CATRigLLegAnkle
+    400080: CATRigLLegPlatform
+    400082: CATRigpelvis
+    400084: CATRigRLeg1
+    400086: CATRigRLeg2
+    400088: CATRigRLeg3
+    400090: CATRigRLegAnkle
+    400092: CATRigRLegPlatform
+    400094: CATRigSpine1
+    400096: CATRigSpine1 1
+    400098: CATRigSpine2
+    400100: CATRigSpine2 1
+    400102: CATRigSpine3
+    400104: CATRigSpine3 1
+    400106: CATRigSpine4
+    400108: CATRigSpine4 1
+    400110: CATRigSpine5
+    400112: CATRigSpine5 1
+    400114: Character001
+    400116: Cylinder002
+    400118: Cylinder003
+    400120: Cylinder009
+    400122: Cylinder010
+    400124: Cylinder011
+    400126: Cylinder012
+    400128: Cylinder014
+    400130: Cylinder015
+    400132: Cylinder016
+    400134: Cylinder017
+    400136: Cylinder021
+    400138: Cylinder022
+    400140: Cylinder023
+    400142: Cylinder024
+    400144: Cylinder027
+    400146: Cylinder028
+    400148: Cylinder029
+    400150: Object001
+    400152: Object002
+    400154: Sphere001
+    400156: Sphere002
+    2300000: Box001
+    2300002: Box002
+    2300004: Box004
+    2300006: Box005
+    2300008: Box006
+    2300010: Box007
+    2300012: Box008
+    2300014: Box009
+    2300016: Box010
+    2300018: Box011
+    2300020: Box012
+    2300022: Box013
+    2300024: Box014
+    2300026: Box015
+    2300028: Box016
+    2300030: Box017
+    2300032: Box018
+    2300034: Box019
+    2300036: Box020
+    2300038: Box021
+    2300040: Box022
+    2300042: Cylinder002
+    2300044: Cylinder003
+    2300046: Cylinder009
+    2300048: Cylinder010
+    2300050: Cylinder011
+    2300052: Cylinder012
+    2300054: Cylinder014
+    2300056: Cylinder015
+    2300058: Cylinder016
+    2300060: Cylinder017
+    2300062: Cylinder021
+    2300064: Cylinder022
+    2300066: Cylinder023
+    2300068: Cylinder024
+    2300070: Cylinder027
+    2300072: Cylinder028
+    2300074: Cylinder029
+    2300076: Object001
+    2300078: Object002
+    2300080: Sphere001
+    2300082: Sphere002
+    3300000: Box001
+    3300002: Box002
+    3300004: Box004
+    3300006: Box005
+    3300008: Box006
+    3300010: Box007
+    3300012: Box008
+    3300014: Box009
+    3300016: Box010
+    3300018: Box011
+    3300020: Box012
+    3300022: Box013
+    3300024: Box014
+    3300026: Box015
+    3300028: Box016
+    3300030: Box017
+    3300032: Box018
+    3300034: Box019
+    3300036: Box020
+    3300038: Box021
+    3300040: Box022
+    3300042: Cylinder002
+    3300044: Cylinder003
+    3300046: Cylinder009
+    3300048: Cylinder010
+    3300050: Cylinder011
+    3300052: Cylinder012
+    3300054: Cylinder014
+    3300056: Cylinder015
+    3300058: Cylinder016
+    3300060: Cylinder017
+    3300062: Cylinder021
+    3300064: Cylinder022
+    3300066: Cylinder023
+    3300068: Cylinder024
+    3300070: Cylinder027
+    3300072: Cylinder028
+    3300074: Cylinder029
+    3300076: Object001
+    3300078: Object002
+    3300080: Sphere001
+    3300082: Sphere002
+    4300000: Box014
+    4300002: Box018
+    4300004: Box017
+    4300006: Cylinder024
+    4300008: Box016
+    4300010: Cylinder022
+    4300012: Cylinder023
+    4300014: Box015
+    4300016: Cylinder021
+    4300018: Box012
+    4300020: Box013
+    4300022: Box011
+    4300024: Cylinder017
+    4300026: Box010
+    4300028: Cylinder016
+    4300030: Cylinder014
+    4300032: Box009
+    4300034: Cylinder015
+    4300036: Box001
+    4300038: Cylinder009
+    4300040: Object001
+    4300042: Object002
+    4300044: Box008
+    4300046: Box007
+    4300048: Cylinder012
+    4300050: Box005
+    4300052: Cylinder011
+    4300054: Box004
+    4300056: Cylinder010
+    4300058: Sphere001
+    4300060: Box022
+    4300062: Box021
+    4300064: Cylinder029
+    4300066: Box020
+    4300068: Cylinder028
+    4300070: Box019
+    4300072: Cylinder027
+    4300074: Sphere002
+    4300076: Box006
+    4300078: Box002
+    4300080: Cylinder002
+    4300082: Cylinder003
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Box002
+    13700002: Cylinder002
+    13700004: Cylinder003
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01___Default
+    second: {fileID: 2100000, guid: c3b893e0c7607564db2d423d7f86527e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
